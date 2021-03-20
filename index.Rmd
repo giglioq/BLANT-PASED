@@ -1,5 +1,5 @@
 ---
-title: "Two Cents"
+title: "Index"
 site: distill::distill_website
 listing: posts
 ---

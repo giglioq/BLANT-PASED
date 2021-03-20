@@ -1,8 +1,8 @@
-name: "Two Cents"
-title: "Two Cents"
+name: "BLANT PASED"
+title: "BLANT PASED"
 theme: flat.css
 description: |
-  Two Cents
+  BLANT PASED
 output_dir: "_site"
 navbar:
   right:

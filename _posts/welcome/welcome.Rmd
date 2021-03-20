@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Two Cents"
+title: "Welcome to BLANT PASED"
 description: |
   Welcome to our new blog, Two Cents. We hope you enjoy 
   reading what we have to say!
